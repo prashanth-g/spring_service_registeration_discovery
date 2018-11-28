@@ -1,2 +1,4 @@
 rootProject.name = 'spring.serviceregisteration'
+include 'eureka_service'
+findProject(':eureka_service')?.name = 'eureka-service'
 
