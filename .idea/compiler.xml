@@ -8,6 +8,8 @@
       <module name="eurekaservice_test" target="1.8" />
       <module name="service.client_main" target="1.8" />
       <module name="service.client_test" target="1.8" />
+      <module name="spring.serviceregisteration_main" target="1.8" />
+      <module name="spring.serviceregisteration_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
